@@ -12,7 +12,7 @@ button{
     height: 100px;
     border-radius: 50px;
     border: none;
-    background-color: hsl(0, 0%, 30%);
+    background-color: #B5E18B
     color: white;
     font-size: 3rem;
     font-weight: bold;
@@ -20,24 +20,24 @@ button{
 }
 
 button:hover{
-     background-color: hsl(0, 0%, 40%);
+     background-color: #F0FFC2
 }
 
 button:active{
-     background-color: hsl(0, 0%, 50%);
+     background-color: #EAE6BC
 }
 
 .operator-btn{
-    background-color: hsl(35, 100%, 55%);
+    background-color: #9ED3DC;
 
 }
 
 .operator-btn:hover{
-     background-color: hsl(35, 100%, 65%);
+     background-color: #FEFD99;
 }
 
 .operator-btn:active{
-     background-color: hsl(35, 100%, 75%);
+     background-color: #FCB7C7;
 }
 #keys{
     display: grid;
@@ -60,7 +60,7 @@ button:active{
     padding: 20px;
     font-size: 5rem;
     text-align: left;
-     background-color: hsl(0, 0%, 20%);
+     background-color: #CA6180;
      border: none;
      color: white;
 }
