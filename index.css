@@ -64,3 +64,11 @@ button:active{
      border: none;
      color: white;
 }
+
+@media (max-width:360px){
+    button{
+    width: 70px;
+    height: 70px;
+   
+}
+}
